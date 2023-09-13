@@ -1,0 +1,10 @@
+[package]
+name = "vpedal"
+version = "0.1.0"
+authors = ["totalchaos"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ringbuf = "0.3.3"
